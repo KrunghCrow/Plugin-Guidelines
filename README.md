@@ -11,7 +11,7 @@ Not just the fact its not a nice thing to do ,servers depend on their own custom
 * **Dont** : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
 ---
 * **Do :** Make the Core language file English (most common used format) and include a seperate language file for any other language.
-* **Dont** Make a zipfile including several language versions for release ..
+* **Dont** Make a zipfile including several language versions of the plugin for release ..
 ---
 * **Do :** Make the cfg neat and organised with correct terms and catagorys , use sperate datafiles or cfg files when the cfg becomes too big for the user to be edited.
 * **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
