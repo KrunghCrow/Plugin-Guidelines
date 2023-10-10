@@ -9,24 +9,24 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 ## Do's and Dont's
 ---
 **Uniqueness & Forks :**
-- [x] :+1: **Do :** Be unique and have features existing plugins do not have.
-- [x] :+1: **Do :** Mention the idea/permission from original dev/server (**when relevant**).
-- [ ] :-1: **Dont** : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
+- :ballot_box_with_check: **Do :** Be unique and have features existing plugins do not have.
+- :ballot_box_with_check: **Do :** Mention the idea/permission from original dev/server (**when relevant**).
+- :negative_squared_cross_mark: **Dont** : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
 ---
 **Language :**
-- [x] :+1: **Do :** Make the Core language English (**Uniform**) in the plugin code.
-- [X] :+1: **Do :** Language file format is in english (**Uniform**) , do not be afraid to ask for help with translations.
-- [ ] :-1: **Dont :** Make a zipfile including several versions of the plugin written in different languages for release.
+- :ballot_box_with_check: **Do :** Make the Core language English (**Uniform**) in the plugin code.
+- :ballot_box_with_check:: **Do :** Language file format is in english (**Uniform**) , do not be afraid to ask for help with translations.
+- :negative_squared_cross_mark: **Dont :** Make a zipfile including several versions of the plugin written in different languages for release.
 ---
 **Configurations**
-- [X] :+1: **Do :** Make the cfg neat and organised with correct terms and catagorys , use seperate datafiles or cfg files when the cfg becomes too big for the user to be edited.
-- [ ] :-1: **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
+- :ballot_box_with_check: **Do :** Make the cfg neat and organised with correct terms and catagorys , use seperate datafiles or cfg files when the cfg becomes too big for the user to be edited.
+- :negative_squared_cross_mark: **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
 ---
 **Premium Plugins**
-- [x] :+1: **Do :** Release plugins that offers a **FIX** to solve issues for the game/network for free
-- [ ] :-1: **Dont :** Release plugins that offers a **FIX** to solve issues for the game/network for money.
-- [X] :+1: **Do :** Release Plugins with a Fair price in mind , compared with what the plugin offers.
-- [ ] :-1: **Dont :** Release plugins For a fee when it has a small coding structure (**if you ask 1$ it might as well be free**).
-- [ ] :-1: **Dont :** New Plugins should not get the same price when using re-used code.
+- :ballot_box_with_check: **Do :** Release plugins that offers a **FIX** to solve issues for the game/network for free
+- :negative_squared_cross_mark: **Dont :** Release plugins that offers a **FIX** to solve issues for the game/network for money.
+- :ballot_box_with_check: **Do :** Release Plugins with a Fair price in mind , compared with what the plugin offers.
+- :negative_squared_cross_mark: **Dont :** Release plugins For a fee when it has a small coding structure (**if you ask 1$ it might as well be free**).
+- :negative_squared_cross_mark: **Dont :** New Plugins should not get the same price when using re-used code.
 Having a prior released plugin made by yourself using the same code.
 ---
