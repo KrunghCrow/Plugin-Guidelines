@@ -1,7 +1,11 @@
 ### Introductions
-In the Plugin world allot of things can be very sus like releasing forks as a premium plugin or taking an idea and release it to public when
-the plugin was made private for a certain person/server.
-Not just the fact its not a nice thing to do ,servers depend on their own custom plugins or setup to be and remain unique.
+```
+In the Plugin world allot of things can be very sus like releasing forks as a premium plugin
+or taking an idea and release it to public.
+When the plugin was made private or for a certain person/server.
+Not just the fact its not a nice thing to do !
+Servers depend on their own custom plugins or setup to be and remain unique.
+```
 ### Do's and Dont's
 ---
 * **Do :** Be unique or have features any existing plugin does not have added (with the consent of the original plugin dev) and mention the idea/permission from original dev/server.
