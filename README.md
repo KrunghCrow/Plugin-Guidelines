@@ -16,3 +16,6 @@ Not just the fact its not a nice thing to do ,servers depend on their own custom
 * **Do :** Make the cfg neat and organised with correct terms and catagorys , use sperate datafiles or cfg files when the cfg becomes too big for the user to be edited.
 * **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
 ---
+* **Do :** Release plugins that offers a **FIX** that fixes issues for the game/network for free
+* **Dont :** Release plugins that offers a **FIX** that fixes issues for the game/network for money.
+---
