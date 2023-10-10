@@ -8,7 +8,8 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 ```
 ## Do's and Dont's
 ---
-- [x] :+1: **Do :** Be unique or have features any existing plugin does not have added (with the consent of the original plugin dev) and mention the idea/permission from original dev/server.
+- [x] :+1: **Do :** Be unique and have features existing plugins do not have.
+- [x] :+1: **Do :** Mention the idea/permission from original dev/server (**when relevant**).
 - [ ] :-1: **Dont** : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
 ---
 - [x] :+1: **Do :** Make the Core language file English (most common used format) and include a seperate language file for any other language.
