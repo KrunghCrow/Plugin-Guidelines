@@ -6,5 +6,13 @@ Not just the fact its not a nice thing to do ,servers depend on their own custom
 
 ## Do's and Dont's
 
-* Do : Be unique or have features any existing plugin does not have added (with the consent of the original plugin dev) and mention the idea/permission from original dev/server.
-* Dont : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
+---
+* **Do :** Be unique or have features any existing plugin does not have added (with the consent of the original plugin dev) and mention the idea/permission from original dev/server.
+* **Dont** : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
+---
+* **Do :** Make the Core language file English (most common used format) and includ a seperate language file for any other language.
+* **Dont** Make a zipfile including 2 language versions for release ..
+---
+* **Do :** Make the cfg neat and organised with correct terms and catagorys , use sperate datafiles or cfg files when the cfg becomes too big for the user to b edited.
+* **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
+---
