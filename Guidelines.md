@@ -23,6 +23,6 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 - [ ] :-1: **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
 ---
 **Premium Plugins**
-- [x] :+1: **Do :** Release plugins that offers a **FIX** that fixes issues for the game/network for free
-- [ ] :-1: **Dont :** Release plugins that offers a **FIX** that fixes issues for the game/network for money.
+- [x] :+1: **Do :** Release plugins that offers a **FIX** to solve issues for the game/network for free
+- [ ] :-1: **Dont :** Release plugins that offers a **FIX** to solve issues for the game/network for money.
 ---
