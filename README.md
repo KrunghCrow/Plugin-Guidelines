@@ -1,6 +1,13 @@
 **Here i will post my guides for releasing your plugins, howto's and tips.**
 
+| Color | Meaning |
+| :--- | :--- |
+| 🟣 | **Opinion** |
+| 🟡 | **Work in progress (WIP)** |
+| 🟢 | **Beginner** |
+| 🟢🟢 | **Advanced** |
 
+---
 | Guide | Description |
 | :--- | :--- |
 | :purple_circle: [**Guidelines**](https://github.com/KrunghCrow/Plugin-Guidelines/blob/main/Guidelines.md) |  My personal opinion for the Plugin making community.|
