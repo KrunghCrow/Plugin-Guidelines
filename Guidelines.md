@@ -18,7 +18,7 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 - :ballot_box_with_check:: **Do :** Language file format is in english (**Uniform**) , do not be afraid to ask for help with translations.
 - :negative_squared_cross_mark: **Dont :** Make a zipfile including several versions of the plugin written in different languages for release.
 ---
-**Configurations**
+**Configurations** :
 - :ballot_box_with_check: **Do :** Make the cfg neat and organised with correct terms and catagorys , use seperate datafiles or cfg files when the cfg becomes too big for the user to be edited.
 - :negative_squared_cross_mark: **Dont :** Make 1 large cfg file what makes it easy to miss certain settings to be edited by the users.
 ---
