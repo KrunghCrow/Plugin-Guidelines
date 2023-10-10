@@ -1,7 +1,7 @@
 # Introduction
 ```
-In the Plugin world allot of things can be very sus like releasing forks as a premium plugin
-or taking an idea and release it to public.
+In the Plugin world allot of things can be very sus like releasing forks as a premium plugin.
+Taking an idea/concept or existing plugin and release it to the public when the subject is denied for sharing.
 When the plugin was made private or for a certain person/server.
 Not just the fact its not a nice thing to do !
 Servers depend on their own custom plugins or setup to be and remain unique.
