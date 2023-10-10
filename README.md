@@ -2,7 +2,7 @@
 
 
 | Guide | Description |
-| --- | --- |
+| :--- | :--- |
 | :purple_circle: [**Guidelines**](https://github.com/KrunghCrow/Plugin-Guidelines/blob/main/Guidelines.md) |  My personal opinion for the Plugin making community.|
 | :yellow_circle: [**Basic Plugin Setup**] | Basic plugin formatting. |
 | :yellow_circle: [**Basic configuration Setup**] | Basic configuration formatting. |
