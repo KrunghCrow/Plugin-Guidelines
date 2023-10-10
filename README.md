@@ -1,4 +1,4 @@
-Here i will post my guides for releasing your plugins and howto's and tips.
+Here i will post my guides for releasing your plugins with howto's and tips.
 
 
 
