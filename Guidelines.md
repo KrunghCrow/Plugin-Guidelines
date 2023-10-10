@@ -1,4 +1,4 @@
-# Introductions
+# Introduction
 ```
 In the Plugin world allot of things can be very sus like releasing forks as a premium plugin
 or taking an idea and release it to public.
