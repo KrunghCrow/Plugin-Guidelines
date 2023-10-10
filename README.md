@@ -9,6 +9,8 @@ Here i will post my guides for releasing your plugins and howto's and tips.
 
 :yellow_circle: [**Basic configuration Setup**] : Basic configuration formatting.
 
+:yellow_circle: [**Sending text messages**] : Sending messages or anouncements `Rust Plugin`.
+
 :yellow_circle: [**Prefix & Avatars**] : How to add prefixes and `ulong` avatars.
 
 :yellow_circle: [**Permissions and checks**] : how to use permissions and check it using your own `API`.
