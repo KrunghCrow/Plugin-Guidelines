@@ -12,7 +12,8 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 - [x] :+1: **Do :** Mention the idea/permission from original dev/server (**when relevant**).
 - [ ] :-1: **Dont** : Fork a existing plugin do some modifications or refracturing the code with minor additions then release it under your own name.
 ---
-- [x] :+1: **Do :** Make the Core language file English (most common used format) and include a seperate language file for any other language.
+- [x] :+1: **Do :** Make the Core language English (**Uniform**) in the plugin code.
+- [ ] :+1: **Do :** Language file format is in english (**Uniform**).
 - [ ] :-1: **Dont :** Make a zipfile including several versions of the plugin written in different languages for release.
 ---
 - [X] :+1: **Do :** Make the cfg neat and organised with correct terms and catagorys , use seperate datafiles or cfg files when the cfg becomes too big for the user to be edited.
