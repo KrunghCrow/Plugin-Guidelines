@@ -28,5 +28,5 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 - [X] :+1: **Do :** Release Plugins with a Fair price in mind , compared with what the plugin offers.
 - [ ] :-1: **Dont :** Release plugins For a fee when it has small coding structure (**if you ask 1$ it might as well be free**).
 - [ ] :-1: **Dont :** New Plugins should not get the same price when using re-used code.
-Having a prior released plugin made by yourself using re-used code.
+Having a prior released plugin made by yourself using the same code.
 ---
