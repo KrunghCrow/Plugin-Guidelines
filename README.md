@@ -1,6 +1,6 @@
 **Here i will post my guides for releasing your plugins, howto's and tips.**
 
-| Color | Meaning |
+| Color | Description |
 | :--- | :--- |
 | 🟣 | **Opinion** |
 | 🟡 | **Work in progress (WIP)** |
