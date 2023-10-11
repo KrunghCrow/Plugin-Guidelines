@@ -2,7 +2,7 @@
 
 **Plugin Name** : ☑️ `"Test Plugin"` ❎ `"TestPlugin"` ❎ `"test plugin"`   
 For consistancy use spacing in the plugin name , avoid `MakingOneLargeName` and try using short names that explains what a
-plugin is ment to do.    
+plugin is ment to do [Pascal Case].    
 
 **Author** :  ☑️ `"Krungh Crow"` ❎  `"Made by krung(maintained by exampledev)"`    
 Make the authors name as short as possible you can always mention collabs as notes.
@@ -15,7 +15,7 @@ Make the authors name as short as possible you can always mention collabs as not
 **Description** : ☑️ `"Example plugin for testing"` ❎ `"This is an awsome plugin with allot of text (not) hahaha"`    
 Keep it short and simple without making it lengthy.
 
-**Main class** : The `TestPlugin.cs` and `main class` need to be formatted the same to compile.
+**Main class** : The `TestPlugin.cs` and `main class` need to be formatted the same to compile [PascalCase].
 
 ```cs
 using Oxide.Core;
