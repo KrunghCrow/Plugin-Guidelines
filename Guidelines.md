@@ -15,7 +15,7 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 ---
 **Language :**
 - :ballot_box_with_check: **Do :** Make the Core language English (**Uniform**) in the plugin code.
-- :ballot_box_with_check:: **Do :** Language file format is in english (**Uniform**) , do not be afraid to ask for help with translations.
+- :ballot_box_with_check: **Do :** Language file format is in english (**Uniform**) , do not be afraid to ask for help with translations.
 - :negative_squared_cross_mark: **Dont :** Make a zipfile including several versions of the plugin written in different languages for release.
 ---
 **Configurations** :
