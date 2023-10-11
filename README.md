@@ -12,6 +12,7 @@
 | :--- | :--- | :--- |
 | :purple_circle: | [**Guidelines**](https://github.com/KrunghCrow/Plugin-Guidelines/blob/main/Guidelines.md) |  My personal opinion for the Plugin making community.|
 | :yellow_circle: | [**Basic Plugin Setup**] | Basic plugin formatting. |
+| :yellow_circle: | [**Plugin Buildup**] | Buildup and regions for your plugins. |
 | :yellow_circle: | [**Basic configuration Setup**] | Basic configuration formatting. |
 | :yellow_circle: | [**Sending text messages**] | Sending messages or anouncements `Rust Plugin`. |
 | :yellow_circle: | [**Prefix & Avatars**] | How to add prefixes and `ulong` avatars. |
