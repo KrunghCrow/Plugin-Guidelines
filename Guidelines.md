@@ -29,4 +29,7 @@ Servers depend on their own custom plugins or setup to be and remain unique.
 - :negative_squared_cross_mark: **Dont :** Release plugins For a fee when it has a small coding structure (**if you ask 1$ it might as well be free**).
 - :negative_squared_cross_mark: **Dont :** New Plugins should not get the same price when using re-used code.
 Having a prior released plugin made by yourself using the same code.
+- :negative_squared_cross_mark: **Dont :** Sell cfg files of other developers and provide them for free.
+- :ballot_box_with_check: **Do :** Provide cfg files for free if there is a need for cfg file help.
+- :ballot_box_with_check: **Do :** Provide cfg files for a small compensation if it is from your own plugin (free has the preference).
 ---
