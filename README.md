@@ -1,5 +1,7 @@
 **Here i will post my guides for releasing your plugins, howto's and tips.**
 
+Some may be a opinion , while others will be more specific to the subject.
+
 | Color | Description |
 | :--- | :--- |
 | 🟣 | **Opinion** |
